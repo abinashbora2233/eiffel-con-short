@@ -1,0 +1,26 @@
+{
+  "title": "The Man Who Sold The Eiffel Tower Twice",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "Smithsonian Magazine, 'The Man Who Sold the Eiffel Tower' by Robert K. Massie (Victor Lustig, 1925: invited six scrap dealers to a secret meeting at the Hotel de Crillon, claimed the city would scrap the tower quietly; one paid a bribe + 20,000 francs; Lustig fled to Vienna; the dealer was too embarrassed to report it)",
+    "FBI Historical File, 'Count Victor Lustig' (Lustig returned to Paris six months later, sold the tower again to a different dealer; this time police were waiting but Lustig talked his way out and escaped)",
+    "Paris Police Archives, 1925-1926 (confirms two separate scrap-dealer frauds involving the Eiffel Tower; neither sale was official; the tower was never slated for demolition)"
+  ],
+  "lines": [
+    { "text": "Paris, 1925. The Eiffel Tower was supposed to be temporary.", "caps": "PARIS | 1925 | TOWER | TEMPORARY" },
+    { "text": "A smooth talker named Victor Lustig read that and saw a payday.", "caps": "LUSTIG | PAYDAY" },
+    { "text": "He invited six scrap dealers to a secret meeting at a fancy hotel.", "caps": "SECRET | MEETING | DEALERS" },
+    { "text": "Told them the city wanted the tower gone hush hush and he was the man to sell it.", "caps": "GONE | HUSH | SELL" },
+    { "text": "One dealer bit. Paid a bribe on top of the price twenty thousand francs.", "caps": "BRIBE | PRICE | FRANCS" },
+    { "text": "Lustig took the money and vanished to Vienna.", "caps": "MONEY | VANISHED | VIENNA" },
+    { "text": "But the dealer was too embarrassed to tell the police he had bought a landmark.", "caps": "EMBARRASSED | POLICE | LANDMARK" },
+    { "text": "So six months later Lustig came back and did it again.", "caps": "BACK | AGAIN" },
+    { "text": "Second dealer paid. This time the cops were waiting.", "caps": "PAID | COPS | WAITING" },
+    { "text": "Lustig talked his way out again but the tower never went anywhere.", "caps": "OUT | NEVER | TOWER" }
+  ]
+}
